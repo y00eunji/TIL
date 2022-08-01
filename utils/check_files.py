@@ -11,7 +11,7 @@ def get_file_list():
 def make_info(file_list, total_file_cnt):
     info = f"## TIL List\nTotal TIL Count: {total_file_cnt}개\n"
     for file in file_list:
-        temp = f"- [{file}](https://github.com/chaerin-dev/connecTo_TIL/blob/main/{file})\n"
+        temp = f"- [{file}](https://github.com/y00eunji/TIL/blob/main/{file})\n"
         info += temp
     return info
     
