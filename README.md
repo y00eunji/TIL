@@ -1,6 +1,6 @@
 # TIL<br><br>
 ## TIL List
-Total TIL Count: 7개
+Total TIL Count: 8개
 - [20220801.md](https://github.com/y00eunji/TIL/blob/main/20220801.md)
 - [20220802.md](https://github.com/y00eunji/TIL/blob/main/20220802.md)
 - [20220803.md](https://github.com/y00eunji/TIL/blob/main/20220803.md)
@@ -8,4 +8,5 @@ Total TIL Count: 7개
 - [20220805.md](https://github.com/y00eunji/TIL/blob/main/20220805.md)
 - [20220816.md](https://github.com/y00eunji/TIL/blob/main/20220816.md)
 - [20220817.md](https://github.com/y00eunji/TIL/blob/main/20220817.md)
+- [20220818.md](https://github.com/y00eunji/TIL/blob/main/20220818.md)
 
