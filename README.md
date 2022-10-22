@@ -44,5 +44,5 @@ Total TIL Count: 44개
 - [20221014.md](https://github.com/y00eunji/TIL/blob/main/20221014.md)
 - [20221017.md](https://github.com/y00eunji/TIL/blob/main/20221017.md)
 - [20221018.md](https://github.com/y00eunji/TIL/blob/main/20221018.md)
-- [20221022.md](https://github.com/y00eunji/TIL/blob/main/20221022.md)
+- [20221021.md](https://github.com/y00eunji/TIL/blob/main/20221021.md)
 
